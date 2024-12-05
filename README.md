@@ -15,7 +15,7 @@ The data used in this project was extracted from **Bloomberg Terminal**, a widel
 ## 🔑 **Key Features**
 
 ###  📂 **P&L Structuring**  
-- Created a professional P&L structure with a detailed revenue breakdown and key items leading to **EBIT (Earnings Before Interest and Taxes)**.  
+- I created a P&L structure using professional formatting that includes revenue break down and essential P&L items leading to EBIT. 
 - Renamed "Operating Income" to **EBIT** for enhanced clarity.
 
   ![image](https://github.com/user-attachments/assets/583c85e4-1164-4591-ae04-c127581c3161)
@@ -27,7 +27,9 @@ The data used in this project was extracted from **Bloomberg Terminal**, a widel
 - Utilized **Excel functions (INDEX & MATCH)** to extract and populate P&L data from the Bloomberg raw file.  
 - Employed **Named Ranges** for efficient formula referencing.
 
----
+![image](https://github.com/user-attachments/assets/28242f96-2f74-4de4-ad92-ef50ecab3b57)
+
+
 
 ###  📊 **Profitability Margin Calculations**  
 - **Gross Profit Margin**: Calculated as `Gross Profit / Revenue` 📈.  
