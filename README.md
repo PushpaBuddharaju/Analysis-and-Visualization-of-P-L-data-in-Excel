@@ -15,7 +15,7 @@ The data used in this project was extracted from **Bloomberg Terminal**, a widel
 ## 🔑 **Key Features**
 
 ###  📂 **P&L Structuring**  
-- I created a P&L structure using professional formatting that includes revenue break down and essential P&L items leading to EBIT. 
+- I created a P&L structure using professional formatting that includes revenue breakdown and essential P&L items leading to EBIT(Earnings Before Interest and Taxex). 
 - Renamed "Operating Income" to **EBIT** for enhanced clarity.
 
   ![image](https://github.com/user-attachments/assets/583c85e4-1164-4591-ae04-c127581c3161)
